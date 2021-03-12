@@ -28,7 +28,7 @@ export default function Header(props: PropsInterface = defaultProps) {
           <Link to="/sign-in"><strong>{user || 'Ingresar'}</strong></Link>
           {user &&
           <div className="d-flex flex-column">
-            <span className="text-right">[Cliente]</span>
+            <span className="text-right">[Entrenador]</span>
             <small className="text-right">Salir</small>
           </div>}
         </li>
