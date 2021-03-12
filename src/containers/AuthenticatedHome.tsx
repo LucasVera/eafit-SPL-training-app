@@ -1,5 +1,4 @@
 import React from 'react';
-import { Link } from 'react-router-dom';
 // import workoutRoutine1 from '../assets/images/abs-workout.jpg';
 // import workoutRoutine2 from '../assets/images/stretching-image.jpg';
 import workoutRoutine1 from '../assets/images/shoulder-recovery-video.png';
