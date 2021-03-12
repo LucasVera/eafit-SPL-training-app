@@ -1,0 +1,15 @@
+.basic-app-bg-cover {
+  background-attachment: static;
+  background-position: center;
+  background-repeat: no-repeat;;
+  background-size: cover;
+  background-image: linear-gradient(to bottom, rgba(250, 250, 250, 0.7) 0%, rgba(250, 250, 250, 0.7) 100%), url('../images/basic-app-cover.jpg');
+}
+
+.medical-app-bg-cover {
+  background-attachment: static;
+  background-position: center;
+  background-repeat: no-repeat;;
+  background-size: cover;
+  background-image: linear-gradient(to bottom, rgba(250, 250, 250, 0.6) 0%, rgba(250, 250, 250, 0.8) 100%), url('../images/medical-app-cover.jpg');
+}
